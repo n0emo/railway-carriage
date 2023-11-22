@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Federal XD",
+        "is_state": true,
+        "distance": 400
+    },
+    {
+        "id": 2,
+        "name": "Federal XD Pushkin",
+        "is_state": true,
+        "distance": 15600
+    },
+    {
+        "id": 3,
+        "name": "From Ivanych",
+        "is_state": false,
+        "distance": 2350
+    },
+    {
+        "id": 4,
+        "name": "State Podzol Goverment Company",
+        "is_state": true,
+        "distance": 460
+    },
+    {
+        "id": 5,
+        "name": "State Maneken",
+        "is_state": true,
+        "distance": 780
+    },
+    {
+        "id": 6,
+        "name": "Hard Metal Inc.",
+        "is_state": false,
+        "distance": 2500
+    },
+    {
+        "id": 7,
+        "name": "Ivan Ivanych Corp",
+        "is_state": false,
+        "distance": 1400
+    },
+    {
+        "id": 8,
+        "name": "Federal Municipal Goverment Russian Railway Russian Carriage Factory",
+        "is_state": true,
+        "distance": 250
+    },
+    {
+        "id": 9,
+        "name": "OAO RJD Carriages",
+        "is_state": true,
+        "distance": 4500
+    },
+    {
+        "id": 10,
+        "name": "Vladimir Medvedev\u0027s State Company",
+        "is_state": true,
+        "distance": 4400
+    },
+    {
+        "id": 11,
+        "name": "Medved Vladimirov\u0027s Company",
+        "is_state": false,
+        "distance": 3000
+    },
+    {
+        "id": 12,
+        "name": "International Carriage Courier",
+        "is_state": false,
+        "distance": 13000
+    },
+    {
+        "id": 13,
+        "name": "American-Belorussian Factory",
+        "is_state": false,
+        "distance": 3680
+    },
+    {
+        "id": 14,
+        "name": "Nord Steel",
+        "is_state": true,
+        "distance": 2800
+    }
+]
